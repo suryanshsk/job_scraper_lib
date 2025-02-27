@@ -16,6 +16,11 @@ Before using the library, install the required dependencies:
 pip install selenium webdriver-manager
 ```
 
+For using the library
+```bash
+pip install job-scraper-lib
+```
+
 ## Usage
 Here is how to use the library to scrape job postings:
 
