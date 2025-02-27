@@ -1,0 +1,2 @@
+[console_scripts]
+job_scraper = job_scraper_lib.scraper:JobScraper
